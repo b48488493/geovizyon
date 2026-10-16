@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b48488493.github.io/geovizyon/sitemap.xml
